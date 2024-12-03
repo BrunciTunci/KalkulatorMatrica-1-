@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DDK\\Desktop\\KalkulatorMatrica (1)\\KalkulatorMatrica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA8C33B-78BC-4DF9-8AC2-5ED5BCFF0BF0}|KalkulatorMatrica\\KalkulatorMatrica.csproj|c:\\users\\ddk\\desktop\\kalkulatormatrica (1)\\kalkulatormatrica\\kalkulatormatrica\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA8C33B-78BC-4DF9-8AC2-5ED5BCFF0BF0}|KalkulatorMatrica\\KalkulatorMatrica.csproj|solutionrelative:kalkulatormatrica\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA8C33B-78BC-4DF9-8AC2-5ED5BCFF0BF0}|KalkulatorMatrica\\KalkulatorMatrica.csproj|c:\\users\\ddk\\desktop\\kalkulatormatrica (1)\\kalkulatormatrica\\kalkulatormatrica\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA8C33B-78BC-4DF9-8AC2-5ED5BCFF0BF0}|KalkulatorMatrica\\KalkulatorMatrica.csproj|solutionrelative:kalkulatormatrica\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DDK\\Desktop\\KalkulatorMatrica (1)\\KalkulatorMatrica\\KalkulatorMatrica\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "KalkulatorMatrica\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DDK\\Desktop\\KalkulatorMatrica (1)\\KalkulatorMatrica\\KalkulatorMatrica\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "KalkulatorMatrica\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:49:29.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DDK\\Desktop\\KalkulatorMatrica (1)\\KalkulatorMatrica\\KalkulatorMatrica\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "KalkulatorMatrica\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DDK\\Desktop\\KalkulatorMatrica (1)\\KalkulatorMatrica\\KalkulatorMatrica\\Pages\\Index.cshtml",
+              "RelativeToolTip": "KalkulatorMatrica\\Pages\\Index.cshtml",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAPkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T17:49:20.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Ime: Bruno
+Prezime: Dragojlovic Segvic
+Poruka: Test
+Datum: 01/12/2024 12:57:12
+
+Ime: Bruno
+Prezime: DS
+Poruka: Test2
+Datum: 01/12/2024 12:57:32
+
+Ime: Viktor
+Prezime: Matijasic
+Poruka: Bok!
+Datum: 01/12/2024 21:28:05
+

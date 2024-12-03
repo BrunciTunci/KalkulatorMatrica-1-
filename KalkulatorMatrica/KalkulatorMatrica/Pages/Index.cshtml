@@ -1,0 +1,317 @@
+﻿@page
+@model MatrixOperationsWebApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Advanced Matrix Calculator";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2, h3 {
+            text-align: center;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #ffffff30;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        button {
+            background: #2575fc;
+            border: none;
+            color: #fff;
+            padding: 10px 15px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+            button:hover {
+                background: #6a11cb;
+            }
+
+        input[type="number"] {
+            width: 60px;
+            padding: 5px;
+            font-size: 14px;
+            margin: 5px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        table {
+            margin: 10px auto;
+            border-collapse: collapse;
+        }
+
+            table td {
+                text-align: center;
+                border: 1px solid #ddd;
+                padding: 5px;
+            }
+
+            table input {
+                width: 100%;
+                padding: 5px;
+                border-radius: 4px;
+                text-align: center;
+            }
+
+        .operations {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .result {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+            .result table {
+                width: 100%;
+                max-width: 500px;
+                margin: auto;
+                border: 2px solid #fff;
+            }
+
+            .result td {
+                background: #2575fc;
+                color: #fff;
+                font-weight: bold;
+            }
+
+        .matrix-section {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+            .matrix-section h3 {
+                margin-bottom: 10px;
+                text-align: center;
+            }
+
+            .matrix-section div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+        /* CSS for Matrix Table */
+        .matrix-table {
+            margin: 10px auto;
+            border-collapse: collapse;
+        }
+
+            .matrix-table td {
+                border: 1px solid #ddd;
+                padding: 5px;
+            }
+
+        .matrix-input {
+            width: 50px;
+            height: 40px;
+            text-align: center;
+            font-size: 16px;
+            border: none;
+            background: rgba(255, 255, 255, 0.8);
+            color: #000;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Napredni Kalkulator Matrica</h1>
+    <div class="container">
+        <form id="matrixForm" method="post">
+            <!-- Matrix A Section -->
+            <div class="matrix-section">
+                <h3>Matrica A</h3>
+                <div id="matrixA">
+                    @if (Model.MatrixA != null)
+                    {
+                        <table class="matrix-table">
+                            @for (int i = 0; i < Model.MatrixA.Length; i++)
+                            {
+                                <tr>
+                                    @for (int j = 0; j < Model.MatrixA[i].Length; j++)
+                                    {
+                                        <td>
+                                            <input type="number" name="MatrixA[@i][@j]" value="@Model.MatrixA[i][j]" class="matrix-input" />
+                                        </td>
+                                    }
+                                </tr>
+                            }
+                        </table>
+                    }
+                </div>
+                <button type="button" onclick="createMatrix('A')">Kreiraj Matricu A</button>
+                <br>
+                Redovi: <input type="number" id="rowsA" name="rowsA" min="1" value="@(Model.MatrixA?.Length ?? 2)">
+                Stupci: <input type="number" id="colsA" name="colsA" min="1" value="@(Model.MatrixA?[0]?.Length ?? 2)">
+            </div>
+
+            <!-- Matrix B Section -->
+            <div class="matrix-section">
+                <h3>Matrica B</h3>
+                <div id="matrixB">
+                    @if (Model.MatrixB != null)
+                    {
+                        <table class="matrix-table">
+                            @for (int i = 0; i < Model.MatrixB.Length; i++)
+                            {
+                                <tr>
+                                    @for (int j = 0; j < Model.MatrixB[i].Length; j++)
+                                    {
+                                        <td>
+                                            <input type="number" name="MatrixB[@i][@j]" value="@Model.MatrixB[i][j]" class="matrix-input" />
+                                        </td>
+                                    }
+                                </tr>
+                            }
+                        </table>
+                    }
+                </div>
+                <button type="button" onclick="createMatrix('B')">Kreiraj Matricu B</button>
+                <br>
+                Redovi: <input type="number" id="rowsB" name="rowsB" min="1" value="@(Model.MatrixB?.Length ?? 2)">
+                Stupci: <input type="number" id="colsB" name="colsB" min="1" value="@(Model.MatrixB?[0]?.Length ?? 2)">
+            </div>
+
+            <!-- Operations -->
+            <h2>Operacije</h2>
+            <div class="operations">
+                <button type="submit" name="operation" value="Add">Zbrajanje</button>
+                <button type="submit" name="operation" value="Subtract">Oduzimanje</button>
+                <button type="submit" name="operation" value="Multiply">Množenje</button>
+                <button type="button" onclick="promptForScalar('ScalarMultiplyA')">Skalarno množenje A</button>
+                <button type="button" onclick="promptForScalar('ScalarMultiplyB')">Skalarno množenje B</button>
+                <button type="button" onclick="promptForPower('PowerA')">Potenciranje A</button>
+                <button type="button" onclick="promptForPower('PowerB')">Potenciranje B</button>
+                <button type="submit" name="operation" value="CheckSymmetryA">Provjera simetrije A</button>
+                <button type="submit" name="operation" value="CheckSymmetryB">Provjera simetrije B</button>
+                <button type="submit" name="operation" value="DeterminantA">Determinanta A</button>
+                <button type="submit" name="operation" value="DeterminantB">Determinanta B</button>
+            </div>
+        </form>
+
+        <!-- Result Section -->
+        <div class="result">
+            <h3>Rezultat:</h3>
+            @if (ViewData["DeterminantResult"] != null)
+            {
+                <p>@ViewData["DeterminantResult"]</p>
+            }
+            else if (Model.Result != null)
+            {
+                <table>
+                    @for (int i = 0; i < Model.Result.Length; i++)
+                    {
+                        <tr>
+                            @for (int j = 0; j < Model.Result[i].Length; j++)
+                            {
+                                <td>@Model.Result[i][j]</td>
+                            }
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <p>Nema rezultata. Pokrenite operaciju.</p>
+            }
+        </div>
+    </div>
+</body>
+
+<script>
+    function createMatrix(matrixId) {
+        const rows = document.getElementById(`rows${matrixId}`).value;
+        const cols = document.getElementById(`cols${matrixId}`).value;
+
+        if (rows <= 0 || cols <= 0) {
+            alert("Redovi i stupci moraju biti veći od 0!");
+            return;
+        }
+
+        const container = document.getElementById(`matrix${matrixId}`);
+        container.innerHTML = ""; // Clear previous matrix inputs
+
+        const table = document.createElement("table");
+        table.classList.add("matrix-table");
+
+        for (let i = 0; i < rows; i++) {
+            const row = document.createElement("tr");
+            for (let j = 0; j < cols; j++) {
+                const cell = document.createElement("td");
+                const input = document.createElement("input");
+                input.type = "number";
+                input.name = `Matrix${matrixId}[${i}][${j}]`;
+                input.value = "0";
+                input.classList.add("matrix-input");
+                cell.appendChild(input);
+                row.appendChild(cell);
+            }
+            table.appendChild(row);
+        }
+
+        container.appendChild(table);
+    }
+
+    function promptForScalar(operation) {
+        const scalar = prompt("Unesite vrijednost skalara:");
+        if (scalar !== null) {
+            document.getElementById("matrixForm").action = `?operation=${operation}&scalar=${scalar}`;
+            document.getElementById("matrixForm").submit();
+        }
+    }
+
+    function promptForPower(operation) {
+        const power = prompt("Unesite vrijednost potencije:");
+        if (power !== null) {
+            document.getElementById("matrixForm").action = `?operation=${operation}&power=${power}`;
+            document.getElementById("matrixForm").submit();
+        }
+    }
+</script>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="result" style="color: red; text-align: center;">
+        <p>@ViewData.ModelState[string.Empty]?.Errors.FirstOrDefault()?.ErrorMessage</p>
+    </div>
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="result">
+        <p>@TempData["Message"]</p>
+    </div>
+}
+
+</html>

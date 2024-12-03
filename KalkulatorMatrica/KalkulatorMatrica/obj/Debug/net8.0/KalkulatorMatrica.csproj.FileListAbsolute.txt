@@ -1,0 +1,102 @@
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\appsettings.Development.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\appsettings.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.staticwebassets.runtime.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.staticwebassets.endpoints.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.exe
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.deps.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.runtimeconfig.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.dll
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.pdb
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.AssemblyInfoInputs.cache
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.AssemblyInfo.cs
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.csproj.CoreCompileInputs.cache
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.MvcApplicationPartsAssemblyInfo.cache
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.RazorAssemblyInfo.cache
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.RazorAssemblyInfo.cs
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\bundle\KalkulatorMatrica.styles.css
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\projectbundle\KalkulatorMatrica.bundle.scp.css
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.build.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.development.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.KalkulatorMatrica.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.KalkulatorMatrica.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.build.KalkulatorMatrica.props
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KalkulatorMatrica.props
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KalkulatorMatrica.props
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.dll
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\refint\KalkulatorMatrica.dll
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.pdb
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.genruntimeconfig.cache
+D:\Blazor WEB APP\Matrice Calc\Matrice Calc\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\ref\KalkulatorMatrica.dll
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\appsettings.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.staticwebassets.runtime.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.staticwebassets.endpoints.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.exe
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.deps.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.runtimeconfig.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.dll
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.pdb
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.AssemblyInfoInputs.cache
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.AssemblyInfo.cs
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.csproj.CoreCompileInputs.cache
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.RazorAssemblyInfo.cache
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.RazorAssemblyInfo.cs
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\bundle\KalkulatorMatrica.styles.css
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\projectbundle\KalkulatorMatrica.bundle.scp.css
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.KalkulatorMatrica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.KalkulatorMatrica.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.build.KalkulatorMatrica.props
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KalkulatorMatrica.props
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KalkulatorMatrica.props
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.dll
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\refint\KalkulatorMatrica.dll
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.pdb
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.genruntimeconfig.cache
+C:\Users\OC\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\ref\KalkulatorMatrica.dll
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\appsettings.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.staticwebassets.endpoints.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.staticwebassets.runtime.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.exe
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.deps.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.runtimeconfig.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.dll
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\bin\Debug\net8.0\KalkulatorMatrica.pdb
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.AssemblyInfoInputs.cache
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.AssemblyInfo.cs
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.csproj.CoreCompileInputs.cache
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.RazorAssemblyInfo.cache
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.RazorAssemblyInfo.cs
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\bundle\KalkulatorMatrica.styles.css
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\scopedcss\projectbundle\KalkulatorMatrica.bundle.scp.css
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.KalkulatorMatrica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.KalkulatorMatrica.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.build.KalkulatorMatrica.props
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KalkulatorMatrica.props
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KalkulatorMatrica.props
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.dll
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\refint\KalkulatorMatrica.dll
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.pdb
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\KalkulatorMatrica.genruntimeconfig.cache
+C:\Users\DDK\Desktop\KalkulatorMatrica (1)\KalkulatorMatrica\KalkulatorMatrica\obj\Debug\net8.0\ref\KalkulatorMatrica.dll

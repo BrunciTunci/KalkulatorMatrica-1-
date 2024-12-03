@@ -1,0 +1,32 @@
+﻿@page
+@model KalkulatorMatrica.Pages.KontaktModel
+@{
+}
+
+<meta charset="UTF-8" />
+<h3>Kontakt</h3>
+
+@if (Model.ImaPoruka)
+{
+    <p>Pozdrav @Model.Ime @Model.Prezime</p>
+    <p>Primili smo Vašu poruku: </p>
+    <p>@Model.Poruka</p>
+}
+ 
+</br>
+
+<form method="post">
+    <label for="ime">Ime:</label>
+    </br>
+    <input type="text" id="ime" name="Ime" placeholder="Vaše ime" required>
+    </br>
+    <label for="prezime">Prezime:</label>
+    </br>
+    <input type="text" id="prezime" name="Prezime" placeholder="Vaše prezime" required>
+    </br>
+    <label for="poruka">Poruka:</label>
+    </br>
+    <textarea id="poruka" name="Poruka" placeholder="Vaša poruka" required></textarea>
+    </br>
+    <button type="submit">Pošalji</button>
+</form>
